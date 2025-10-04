@@ -1,4 +1,4 @@
-import { Routes, Route } from 'react-router-dom'
+import { Routes, Route, Link } from 'react-router-dom'
 import Chuong1 from './page/Chuong1/Chuong1.jsx';
 import Chuong2 from './page/Chuong2/Chuong2.jsx';
 import Chuong3 from './page/Chuong3/Chuong3.jsx';
@@ -7,6 +7,7 @@ import Chuong5 from './page/Chuong5/Chuong5.jsx';
 
 function App() {
   return (
+    <>
     <Routes>
       <Route path="/" element={<Chuong1 />} />
       <Route path="/chuong1" element={<Chuong1 />} />
@@ -15,6 +16,7 @@ function App() {
       <Route path="/chuong4" element={<Chuong4 />} />
       <Route path="/chuong5" element={<Chuong5 />} />
     </Routes>
+    </>
   )
 }
 
