@@ -11,7 +11,7 @@ function App() {
       <div className='fixed top-0 w-full z-5000 bg-white/80 backdrop-blur-sm'>
         <nav className="text-sky-600 p-4">
           <div className="container mx-auto flex justify-between items-center">
-            <div className="text-2xl font-bold">Dự án Hoa Kể Chuyện</div>
+            <div className="text-2xl font-bold">A Global Learning Hub for Planetary Observation</div>
             <div className="space-x-4 font-bold text-lg">
               <Link to="/chuong1" className="text-slate-600 hover:text-sky-600 transition-colors">Chương 1</Link>
               <Link to="/chuong2" className="text-slate-600 hover:text-sky-600 transition-colors">Chương 2</Link>
