@@ -1,6 +1,6 @@
 # Link Slide giới thiệu dự án
 
-
+https://drive.google.com/file/d/1p5zbUNMoq_mKhhtdRq4VFgX2h7yJT7As/view?usp=drive_link
 
 # Link sách
 
